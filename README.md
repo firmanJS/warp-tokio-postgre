@@ -1,9 +1,12 @@
 ## Example warp 
 
-initial project
-cargo new warp-example
-cd warp-example
+* initial project
+```sh
+$ cargo new warp-example
+$ cd warp-example
+```
 
-run 
-
-cargo run
+* run 
+```sh
+$ cargo run
+```
